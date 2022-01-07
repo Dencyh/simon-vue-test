@@ -1,6 +1,10 @@
 .DS_Store
 node_modules
-/dist
+/src/assets/sounds
+
+
+# vue.config.js 
+#/dist
 
 
 # local env files
